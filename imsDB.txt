@@ -1,0 +1,4 @@
+
+Widgets : 10 
+Super Widgets : 100
+Ultimate Widgets : 1000
